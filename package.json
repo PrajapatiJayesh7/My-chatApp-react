@@ -2,10 +2,12 @@
   "name": "react_chat_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://PrajapatiJayesh7.github.io/My-chatApp-react",
   "dependencies": {
     "@ant-design/icons": "^4.6.3",
     "axios": "^0.21.1",
     "cra-template": "^1.1.2",
+    "gh-pages": "^5.0.0",
     "react": "^17.0.2",
     "react-chat-engine": "^1.10.17",
     "react-dom": "^17.0.2",
@@ -17,7 +19,8 @@
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build --openssl-legacy-provider build"
   },
   "eslintConfig": {
     "extends": [
