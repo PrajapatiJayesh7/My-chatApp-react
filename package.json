@@ -2,7 +2,7 @@
   "name": "react_chat_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://PrajapatiJayesh7.github.io/My-chatApp-react",
+  "homepage": " ",
   "dependencies": {
     "@ant-design/icons": "^4.6.3",
     "axios": "^0.21.1",
